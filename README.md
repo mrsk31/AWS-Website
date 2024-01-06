@@ -18,7 +18,6 @@ Hosting a website on aws using terraform and git
 
 #script
  
-<br>
  commit changes
  clone code
  open poershell
