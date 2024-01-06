@@ -22,10 +22,24 @@ Hosting a website on aws using terraform and git
  commit changes
  clone code
  open poershell
-   1 cd c:
-   2 mkdir myproject
-   3 cd myproject
-   4 git clone https://github.com/mrsk31/AWS-website.git
-   5 code
-   6 cd aws-website
+cd c:
+mkdir myproject
+cd myproject
+git clone https://github.com/mrsk31/AWS-website.git
+code
+cd aws-website
+git status
+git add README.md
+git status
+git push -o origin main
+git push
+git push origin
+git status
+git add .
+git status
+ls
+git commit -m "updated file"
+git status
+git push origin
+
 
