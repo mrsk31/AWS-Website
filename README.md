@@ -22,6 +22,9 @@ Hosting a website on aws using terraform and git
 commit changes
 clone code
 open poershell
+ commit changes
+ clone code
+ open poershell
 cd c:
 mkdir myproject
 cd myproject
